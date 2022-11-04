@@ -1,0 +1,40 @@
+#logo {
+    width: 30px;
+    margin-left: 25px;
+}
+
+
+
+.yello {
+    color: #FFCB46;
+}
+
+.navbar {
+  background-color:#008000; 
+  font-weight: 550; 
+  color: #FFFF;
+  height: 90px;
+}
+
+.nav-item:hover{
+    font-size: large;
+    
+}
+
+
+
+#estilo {
+    background: #FFCB46;
+    color: black;
+    border: 0px;
+    border-radius: 15px;
+    width: 220px;
+    height: 40px;
+    margin-top: -9px;
+    font-weight: 550; 
+}
+
+#white {
+    color: #FFFF;
+    
+}
